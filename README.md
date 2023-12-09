@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Salman Junaed Islam</h1>
 <div align='center'> <img src='https://raw.githubusercontent.com/SalmanJunaed/SalmanJunaed/main/banner_.png'></div>
-<h3 align="center">A passionate frontend REACT developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend REACT developer from Bangladesh, I have been working with react for 1 year and learning MERN stack development for 8 months. Enthusiastic about MERN development and looking to establish myself as a senior MERN developer within the next 2 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanjunaed&label=Profile%20views&color=0e75b6&style=flat" alt="salmanjunaed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 My project -1 [Asset management system](https://github.com/programming-hero-web-course1/b8a12-client-side-SalmanJunaed)
+- 🔭 My project -1 [Asset management system](https://github.com/programming-hero-web-course1/b8a12-client-side-SalmanJunaed) Project [Live link](https://iridescent-frangollo-ab2c7e.netlify.app/)  
 
-- 🔭 My project -2 [Blog Site](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-SalmanJunaed)
+- 🔭 My project -2 [Blog Site](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-SalmanJunaed)  Project [Live link](https://golden-gelato-6a160b.netlify.app/) 
 
-- 🔭 My project -3 [Electronics shop](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-SalmanJunaed)
+- 🔭 My project -3 [Electronics shop](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-SalmanJunaed) Project [Live link](https://sparkly-sawine-505960.netlify.app/) 
 
 
 - 🌱 I’m currently learning **Express JS**
