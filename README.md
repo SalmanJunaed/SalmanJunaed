@@ -6,7 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Asset management system](https://github.com/programming-hero-web-course1/b8a12-client-side-SalmanJunaed)
+- 🔭 My project -1 [Asset management system](https://github.com/programming-hero-web-course1/b8a12-client-side-SalmanJunaed)
+
+- 🔭 My project -2 [Blog Site](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-SalmanJunaed)
+
+- 🔭 My project -3 [Electronics shop](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-SalmanJunaed)
+
 
 - 🌱 I’m currently learning **Express JS**
 
