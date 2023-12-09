@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanjunaed&show_icons=true&locale=en&layout=compact" alt="salmanjunaed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanjunaed&show_icons=true&locale=en" alt="salmanjunaed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanjunaed&" alt="salmanjunaed" /></p>
